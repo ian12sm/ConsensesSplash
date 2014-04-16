@@ -4,7 +4,7 @@ $.backstretch('img/big-elephant.jpg');
 //Parallax?
 function parallax(){
     var scrolled = $(window).scrollTop();
-    $('.bg-white').css('top', +(scrolled) + 'px');
+    $('.bg-white').css('top', -(scrolled) + 475 + 'px');
 }
 //Call paralax on scroll
 $(window).scroll(function(e){
