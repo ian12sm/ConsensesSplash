@@ -10,6 +10,12 @@ h1{
     color: #BE2128;
     font-size: 58px;
 }
+h4{
+text-align: center;
+color: #fff;
+font-size: 20px;
+margin-top: 0px;
+}
 .sub-heading {
 color: #C6C6C6;
 font-size: 22px;
@@ -123,7 +129,7 @@ margin: 10px;
 
 footer{
   margin-top: 50px;
-  height: 150px;
+  height: 200px;
   background-color: #C12129;
 }
 /* ==========================================================================
