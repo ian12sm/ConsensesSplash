@@ -23,7 +23,8 @@ i.fa-circle{
     margin-top: 3px!important;
 }
 #mc_embed_signup input {
-border: 0px solid #999;
+border: 0px solid #999!important;
+height: 50px;
 }
 span.center {
 margin-left: 1%;
@@ -39,6 +40,18 @@ clear: none!important;
 input#mce-EMAIL {
 float: left;
 clear: none;
+}
+#mc_embed_signup input.button{
+    margin: 1% 0;
+}
+::-webkit-input-placeholder,
+:-moz-placeholder,
+::-moz-placeholder,
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    font-size: 18px;
+}
+#mc_embed_signup form{
+    padding: 0px!important;
 }
 .bg-white-1{
     background-color: #fff;
