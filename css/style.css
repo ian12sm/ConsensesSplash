@@ -114,6 +114,9 @@ margin: 10px;
 .modal-content{
     border-radius: 0px!important;
 }
+#read-on h1{
+    font-size: 38px;
+}
 
 /* ==========================================================================
    Media Queries
@@ -131,8 +134,10 @@ width: 81%!important;
 #read-on #mc_embed_signup input.button{
     width: 18%!important;
 }
-
+#mc_embed_signup input.button {
+width: 18%!important;
 }
+
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
