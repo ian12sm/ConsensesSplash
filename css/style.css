@@ -1,5 +1,5 @@
 p,h1,h2,h3,h4, *{
-    font-family: "proxima-nova";
+    font-family: "proxima-nova"!important;
 }
 p{
     font-size: 24px;
@@ -83,7 +83,8 @@ border-radius: 0px;
 border: 0px!important;
 color: #fff;
 height: 50px;
-width: 100px;
+width: 150px;
+font-size: 24px;
 margin: 0 40%;
 }
 .read-more :hover{
@@ -92,6 +93,9 @@ margin: 0 40%;
 }
 .top-row{
 margin-top: 7%;
+}
+.fa{
+    font-family: FontAwesome!important;
 }
 /*==================
     Modal
