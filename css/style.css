@@ -24,7 +24,12 @@ span.center {
 margin-left: 1%;
 margin-right: 1%;
 }
-
+label {
+display: none!important;
+}
+#mc-embedded-subscribe {
+float: right;
+}
 .bg-white-1{
     background-color: #fff;
     margin-top: 20px;
