@@ -42,7 +42,7 @@ input#mce-EMAIL {
 float: left;
 clear: none;
 font-size: 24px;
-width: 81%!important;
+width: 72%!important;
 }
 .pad-none{
     padding: 0px!important;
@@ -51,7 +51,7 @@ width: 81%!important;
 #mc_embed_signup input.button{
     background-color: #BE2128!important;
     border-radius: 0px;
-    width: 18%!important;
+    width: 27%!important;
     min-width: 0px!important;
     height: 58px!important;
 }
@@ -121,8 +121,11 @@ margin: 10px;
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
-input#mce-EMAIL {
+#read-on input#mce-EMAIL {
 width: 81%!important;
+}
+#read-on #mc_embed_signup input.button{
+    width: 18%!important;
 }
 
 }
