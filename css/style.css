@@ -107,6 +107,9 @@ height: 175px;
 #read-on #mc-embedded-subscribe-form {
 margin: 10px; 
 }
+.modal-content{
+    border-radius: 0px!important;
+}
 
 /* ==========================================================================
    Media Queries
