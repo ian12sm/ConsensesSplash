@@ -86,7 +86,7 @@ float: right;
 height: 50px;
 width: 100px;
 }
-.read-more:hover{
+.read-more :hover{
     background-color: #BE2028!important;
     color:#fff!important;
 }

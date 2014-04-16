@@ -73,10 +73,30 @@
       <div class="col-sm-6 col-sm-offset-3 bg-white-2"> 
       <h1>An Indian Fable:</h1>
       <p>An Indian fable describes six blind men who happen upon an elephant standing in the middle of a dusty road. Each man explores a separate section of the animal’s body and independently concludes what the object must be: The first man, holding the elephant’s tail determines that elephant is a rope. The second man explores a leg and decides that elephant must be a tree. The third man, examining an ear, insists that elephant is a fan. Their discourse becomes contentious, as each man grows increasingly righteous of his own perception. It is only when a king appears and suggests that the men stop fighting and listen to one another, that the elephant’s larger identity emerges.</p>
-      <button class="btn btn-default read-more">Read On</button>
+      <button class="btn btn-default read-more" data-toggle="modal" data-target="#read-on">Read On</button>
       </div>
     </div>
   </div>
+
+<div class="modal fade" id="read-on">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title">Modal title</h4>
+      </div>
+      <div class="modal-body">
+        <p>One fine body&hellip;</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="bootstrap.min.js"></script>
