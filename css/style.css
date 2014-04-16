@@ -145,6 +145,9 @@ width: 27%!important;
 input#mce-EMAIL {
 width: 81%!important;
 }
+#mc_embed_signup input.button {
+width: 18%!important;
+}
  }
 
 /* Large devices (large desktops, 1200px and up) */
