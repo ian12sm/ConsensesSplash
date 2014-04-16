@@ -126,6 +126,9 @@ margin: 10px;
 #read-on h1{
     font-size: 38px;
 }
+#read-on{
+  padding-bottom: 35px;
+}
 
 footer{
   margin-top: 50px;
