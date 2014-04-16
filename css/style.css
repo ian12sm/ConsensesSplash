@@ -51,7 +51,7 @@ width: 81%!important;
     background-color: #BE2128!important;
     border-radius: 0px;
     width: 18%!important;
-    min-width: none!important;
+    min-width: 0px!important;
     height: 58px!important;
 }
 #mc_embed_signup form{
