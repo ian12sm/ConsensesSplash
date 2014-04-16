@@ -1,1 +1,1 @@
-//$.backstretch('img/big-elephant.jpg');
+$.backstretch('img/big-elephant.jpg');
