@@ -19,7 +19,12 @@ letter-spacing: 6px;
 i.fa-circle{
     font-size: .4em;
 }
-
+.mg-small{
+    margin-top: 3px!important;
+}
+#mc_embed_signup input {
+border: 0px solid #999;
+}
 span.center {
 margin-left: 1%;
 margin-right: 1%;
@@ -29,9 +34,11 @@ display: none!important;
 }
 #mc-embedded-subscribe {
 float: right;
+clear: none!important;
 }
-#mce-EMAIL{
-    float: left;
+input#mce-EMAIL {
+float: left;
+clear: none;
 }
 .bg-white-1{
     background-color: #fff;
