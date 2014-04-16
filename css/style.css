@@ -30,6 +30,9 @@ display: none!important;
 #mc-embedded-subscribe {
 float: right;
 }
+#mce-EMAIL{
+    float: left;
+}
 .bg-white-1{
     background-color: #fff;
     margin-top: 20px;
