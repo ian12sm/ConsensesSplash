@@ -24,7 +24,8 @@ i.fa-circle{
 }
 #mc_embed_signup input {
 border: 0px solid #999!important;
-height: 50px;
+height: 58px;
+margin: 0!important;
 }
 span.center {
 margin-left: 1%;
