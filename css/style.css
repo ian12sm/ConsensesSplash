@@ -87,9 +87,9 @@ width: 150px;
 font-size: 24px;
 margin: 0 40%;
 }
-.read-more :hover{
-    background-color: #BE2028!important;
-    color:#fff!important;
+.btn-default:hover {
+background-color: #9E2329;
+color: #FFF;
 }
 .top-row{
 margin-top: 7%;
