@@ -43,8 +43,12 @@ float: left;
 clear: none;
 font-size: 24px;
 }
+.pad-none{
+    padding: 0px!important;
+}
 #mc_embed_signup input.button{
-    margin: 2% 0!important;
+    background-color: #BE2128!important;
+    border-radius: 0px;
 }
 #mc_embed_signup form{
     padding: 0px!important;
