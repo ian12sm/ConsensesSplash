@@ -101,7 +101,7 @@ background-color: #9E2329;
 color: #FFF;
 }
 .top-row{
-background-color: rgba(180,35,29,0.7);
+background-color: rgba(180,35,29,0.9);
 }
 .fa{
     font-family: FontAwesome!important;
@@ -133,7 +133,7 @@ margin: 10px;
 footer{
   margin-top: 50px;
   height: 200px;
-  background-color: #C12129;
+  background-color: #B4231D;
 }
 /* ==========================================================================
    Media Queries
